@@ -1,16 +1,22 @@
 {
-    "name": "rest_server",
-    "description": "REST Server",
-    "version": "1.0.0",
-    "author": {
-        "name": "",
-        "email": ""
-    },
-    "contributors": [
-    ],
-    "repository": {},
-    "dependencies": {
-        "express": "^4.18.2",
-        "sqlite3": "^5.1.6"
-    }
+  "name": "rest_server",
+  "description": "REST Server",
+  "version": "1.0.0",
+  "author": {
+    "name": "YOUR NAME HERE",
+    "email": "YOUR_EMAIL@school.edu"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node rest_server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.6"
+  }
 }
