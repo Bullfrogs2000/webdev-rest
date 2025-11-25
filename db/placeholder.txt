@@ -1,0 +1,1 @@
+This file exists solely to create the db folder, so you can put the database in here. Disregard, and delete if necessary, this file.
